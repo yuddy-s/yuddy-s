@@ -8,5 +8,4 @@ If an idea pops into my head and it's interesting, chances are I'll try to build
 
 My main tech stack is **React, Node.js, and Express** for web development, and **C** for systems-level work.
 
-[1st Place Hackathon winner](https://devpost.com/software/sbu-pathfinder)
-...still stuck at skechers though :(
+[1st Place Hackathon winner](https://devpost.com/software/sbu-pathfinder)<br>...still stuck at skechers though :(
