@@ -8,5 +8,5 @@ If an idea pops into my head and it's interesting, chances are I'll try to build
 
 My main stack: **React, Node.js, TypeScript** for web | **C** for systems
 
-🏆 [SBUHacks x NeuralSeek 1st Place Hackathon winner](https://devpost.com/software/sbu-pathfinder)
+🏆 [SBUHacks x NeuralSeek 1st Place Hackathon winner](https://devpost.com/software/sbu-pathfinder) <br>
 💼 Co-founder & Developer at Biz Buddy - helping small businesses scale with custom analytics platforms and management tools
